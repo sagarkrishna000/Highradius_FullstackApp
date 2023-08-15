@@ -1,0 +1,19 @@
+.container{
+    background-color: #696868;
+}
+.white-text {
+    color: white;
+  }
+
+.Invoice_List{
+    color:#db4437;
+    font-size:xx-large;
+    font-weight: bolder;
+  margin-left: 2%;
+}
+
+.footer{
+    text-align: center;
+    font-size: large;
+    
+}
